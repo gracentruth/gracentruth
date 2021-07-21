@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @gracentruth
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h3> Kim Eunjin </h3>
+
+🏫 Handong Global University 19 
+
+💻 Major in Computer Science
+
+💭 SW EDUCATION / EDU TECH 
 
 <!---
 gracentruth/gracentruth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
