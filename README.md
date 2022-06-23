@@ -3,6 +3,8 @@
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
 
+<img src="https://img.shields.io/badge/Roblox_000000?style=for-the-badge&logo=Roblox&logoColor=white">
+
 <h3> Kim Eunjin </h3>
 
 🏫 Handong Global University 19 
