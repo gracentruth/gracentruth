@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=ffe8ee&height=100&section=header&text=WelcomeToMyGitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=ffe8ee&height=100&section=header&text=EunjinKim&fontSize=90)
 
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
