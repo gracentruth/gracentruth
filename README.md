@@ -11,7 +11,7 @@
 
 💭 SW EDU / EDU-TECH / AI / APP DEV
 
-![gracentruth's github stats](https://github-readme-stats.vercel.app/api?username=gracentruthju&show_icons=true&hide_border=true)
+![gracentruth's github stats](https://github-readme-stats.vercel.app/api?username=gracentruth&show_icons=true&hide_border=true)
 
 
 <!---
