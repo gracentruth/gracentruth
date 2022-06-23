@@ -11,8 +11,7 @@
 
 💭 SW EDU / EDU-TECH / AI / APP DEV
 
-![gracentruth's github stats](https://github-readme-stats.vercel.app/api?username=깃허브닉네임ju&show_icons=true&hide_border=true)
-
+![유저이름's github stats](https://github-readme-stats.vercel.app/api?username=깃허브닉네임ju&show_icons=true&hide_border=true)
 
 <!---
 gracentruth/gracentruth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
