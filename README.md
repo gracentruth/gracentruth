@@ -4,7 +4,7 @@
 
 💻 Major in Computer Science
 
-💭 SW EDUCATION / EDU TECH 
+💭 SW EDU / EDU-TECH / AI / APP DEV
 
 <!---
 gracentruth/gracentruth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
