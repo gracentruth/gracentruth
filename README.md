@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=ffe8ee&height=100&section=header&text=WelcomToMyGitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=ffe8ee&height=100&section=header&text=WelcomeToMyGitHub&fontSize=90)
 
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
@@ -11,6 +11,7 @@
 
 💭 SW EDU / EDU-TECH / AI / APP DEV
 
+![gracentruth's github stats](https://github-readme-stats.vercel.app/api?username=깃허브닉네임ju&show_icons=true&hide_border=true)
 
 
 <!---
