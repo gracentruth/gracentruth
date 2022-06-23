@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=eunjin&fontSize=90)
 
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-
+the-badge&logo=Flutter&logoColor=white">
+
 <h3> Kim Eunjin </h3>
 
 🏫 Handong Global University 19 
