@@ -13,8 +13,6 @@
 
 ![gracentruth's github stats](https://github-readme-stats.vercel.app/api?username=gracentruth&show_icons=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?gracentruth=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!---
 gracentruth/gracentruth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
