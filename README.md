@@ -1,6 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=soft)
-![header](https://capsule-render.vercel.app/api?color=auto)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=my name is eunjin)
 
 <h3> Kim Eunjin </h3>
 
